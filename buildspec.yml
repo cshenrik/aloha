@@ -5,3 +5,7 @@ phases:
     commands:
       - echo Entered the build phase...
       - jekyll build
+
+artifacts:
+  files: 
+    - _site/**/*
