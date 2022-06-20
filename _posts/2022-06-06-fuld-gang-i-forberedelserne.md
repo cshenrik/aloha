@@ -7,7 +7,7 @@ author: Henrik
 cover:  "/assets/header_image.jpg"
 ---
 
-Der skal ske mange ting, før vi kan tage afsted.
+Der skal ske mange ting, før vi kan tage afsted. Når vi det?
 
 <a href="/assets/london-eye-2.jpg" data-lightbox="london-eye-2" data-title="London eye">
   <img src="/assets/london-eye-2.jpg" title="London eye">
