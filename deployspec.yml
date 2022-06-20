@@ -4,4 +4,4 @@ phases:
   build:
     commands:
       - echo Entered the deploy phase...
-      - aws s3 sync _site s3://infrastructurestack-alohabucketb4bc5b45-16spoyb28vfqu
+      - aws s3 sync _site s3://${BUCKET_NAME}
