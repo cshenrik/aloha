@@ -5,3 +5,4 @@ phases:
     commands:
       - echo Entered the deploy phase...
       - aws s3 sync _site s3://${BUCKET_NAME}
+      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*'
