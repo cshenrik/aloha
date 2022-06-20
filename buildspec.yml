@@ -8,4 +8,5 @@ phases:
 
 artifacts:
   files: 
+    - deployspec.yml
     - _site/**/*
