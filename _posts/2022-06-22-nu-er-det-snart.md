@@ -9,8 +9,8 @@ cover:  "/assets/header_image.jpg"
 
 Vi nærmer os med hastige skridt.
 
-<a href="/assets/door_medium.jpg" data-lightbox="door" data-title="Door">
-  <img src="/assets/door_large.jpg" title="Door">
+<a href="/assets/door_large.jpg" data-lightbox="door" data-title="Door">
+  <img src="/assets/door_medium.jpg" title="Door">
 </a>
 
 Døren i kælderen.
