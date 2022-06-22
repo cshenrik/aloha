@@ -4,5 +4,5 @@ phases:
   build:
     commands:
       - echo Entered the deploy phase...
-      - aws s3 sync _site s3://${BUCKET_NAME}
-      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*' --cache-control max-age=180
+      - aws s3 sync _site s3://${BUCKET_NAME} --cache-control max-age=180
+      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*'
