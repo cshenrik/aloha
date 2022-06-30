@@ -3,6 +3,7 @@ layout: post
 title:  "Flyproblemer del 2"
 date:   2022-06-30T12:18:00+02:00
 author: Henrik
+comments: true
 
 cover:  "/assets/header_image.jpg"
 ---

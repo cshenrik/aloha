@@ -47,7 +47,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: aloha-oddershede-org
 
 timezone: "Europe/Copenhagen"
 
