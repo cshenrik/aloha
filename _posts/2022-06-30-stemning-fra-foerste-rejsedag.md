@@ -33,3 +33,5 @@ Der blev uddelt "gadgets" med stor underholdningsværdi:
 </a>
 
 I skrivende stund har vi omtrent 5 timer tilbage af flyvningen, og Daniel er vågnet, klar til sjov!
+
+***Update: Nu er vi kommet frem til Seattle, hvor vi har en overnatning til i morgen, hvor vi flyver det sidste stykke til Hawaii.
