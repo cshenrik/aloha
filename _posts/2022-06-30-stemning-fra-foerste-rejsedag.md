@@ -36,3 +36,7 @@ Der blev uddelt "gadgets" med stor underholdningsværdi:
 I skrivende stund har vi omtrent 5 timer tilbage af flyvningen, og Daniel er vågnet, klar til sjov!
 
 ***Update: Nu er vi kommet frem til Seattle, hvor vi har en overnatning til i morgen, hvor vi flyver det sidste stykke til Hawaii.
+
+P.S.: Jeg har gjort det muligt at tilføje kommentarer på blogindlæg. Nederst på hvert blogindlæg optræder nogle felter, hvor man skal angive sit navn og sin email-adresse for at sende en kommentar. Husk at markere "I'd rather post as a guest", så du ikke behøver at oprette en bruger. Se skærmbillede:
+
+<img src="/assets/2022-06-30/disqus.png" title="Kommentarer">
