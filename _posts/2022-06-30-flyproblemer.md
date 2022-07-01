@@ -3,7 +3,6 @@ layout: post
 title:  "Flyproblemer!"
 date:   2022-06-30T06:00:00+02:00
 author: Henrik
-comments: true
 
 cover:  "/assets/header_image.jpg"
 ---
