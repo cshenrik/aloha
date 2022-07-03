@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stemning fra første rejsedag"
-date:   2022-06-30T17:19:00+02:00
+date:   2022-06-30T17:19:00
 author: Henrik
 
 cover:  "/assets/2022-06-30/amsterdam_airport_large.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nu skal der pakkes!"
-date:   2022-06-23T21:48:00+02:00
+date:   2022-06-23T21:48:00
 author: Henrik
 
 cover:  "/assets/header_image.jpg"
