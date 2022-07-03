@@ -52,7 +52,7 @@ jekyll-archives:
 timezone: "Europe/Copenhagen"
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "G-NH63X7FB4V"
 
 # Category descriptions (for archive pages)
 descriptions:
