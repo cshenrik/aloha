@@ -49,7 +49,7 @@ jekyll-archives:
 # Disqus comments
 # disqus_shortname: aloha-oddershede-org
 
-timezone: "Pacific/Honolulu"
+# timezone: "Pacific/Honolulu"
 future: true
 
 # Google analytics
