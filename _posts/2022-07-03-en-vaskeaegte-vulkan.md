@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "En vaskeægte vulkan"
-date:   2022-07-05T08:34:00+05:00
+date:   2022-07-05T08:34:00-05:00
 author: Inge Birgitte
 
 cover:  "/assets/2022-07-05-vulkan/smoking_vulcano.jpg"
