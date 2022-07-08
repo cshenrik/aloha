@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Svøm med djævlerokker"
-date:   2022-07-07T215:32:00-05:00
+date:   2022-07-07T15:32:00-05:00
 author: Daniel
 
 cover:  "/assets/2022-07-07-manta-daniel/header.jpg"
