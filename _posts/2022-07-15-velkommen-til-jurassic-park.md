@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Velkommen til Jurassic Park"
-date:   2022-07-15T21:48:00-05:00
+date:   2022-07-14T21:48:00-05:00
 author: Henrik
 
 cover:  "/assets/2022-07-14-velkommen-til-jurassic-park/header.jpg"
