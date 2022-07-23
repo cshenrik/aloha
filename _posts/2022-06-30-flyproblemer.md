@@ -4,7 +4,7 @@ title:  "Flyproblemer!"
 date:   2022-06-30T08:00:00
 author: Henrik
 
-cover:  "/assets/header_image.jpg"
+cover:  "/assets/header_image.webp"
 ---
 
 Så er det store-rejsedag for os. Vi stod op kl. 02:40 - og alle var friske og spændte.

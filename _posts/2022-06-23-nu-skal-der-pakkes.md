@@ -4,7 +4,7 @@ title:  "Nu skal der pakkes!"
 date:   2022-06-23T21:48:00
 author: Henrik
 
-cover:  "/assets/header_image.jpg"
+cover:  "/assets/header_image.webp"
 ---
 
 Tiden flyver afsted, og allerede om en uge er vi på vej til Hawaii. Vi har næsten ikke turdet tro på, at vi denne gang skal afsted, men der er meget, der tyder på det. USA har lempet restriktionerne meget, så det kræver "kun", at vi voksne er vaccinerede. Den største risiko synes at være, at vi bliver smittede med corona, da den er i vækst.
